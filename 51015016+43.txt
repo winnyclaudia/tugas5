@@ -1,0 +1,8 @@
++10 selesai tugas
++5 tampilan template
++5 untuk custom template
++2*16=32 untuk setiap selektor dalam custom style
+-5 untuk menu non-template
+-6 untuk sisa content sample sample template
++2 untuk copyright
+total 43
